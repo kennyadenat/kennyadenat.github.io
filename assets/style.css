@@ -535,7 +535,7 @@ span.middot {
 
 .section {
 	position: relative;
-	margin: 60px 0;
+	/*margin: 60px 0;*/
 	padding: 60px 0;
 	background-color: #F9F9F9;
 	overflow: hidden;
@@ -12024,7 +12024,7 @@ button.toast-close-button {
 
 .footer-logo {
 	display: block;
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 }
 
 
